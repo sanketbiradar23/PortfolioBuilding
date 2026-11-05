@@ -1,0 +1,11 @@
+# Activity 1: Development Environment Setup
+
+I installed and configured the GCC compiler for C programming.
+
+I created a C program named `hello.c` and compiled it using GCC through Windows PowerShell.
+
+The program executed successfully and displayed:
+
+**Hello, World!**
+
+This activity helped me understand how to set up a C programming environment, compile a program, and execute it using the command line.
